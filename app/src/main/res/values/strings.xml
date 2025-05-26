@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pract16</string>
+    <string name="Enter_key">Your password</string>
+    <string name="Enter_value">Your login</string>
+    <string name="Save">Save</string>
+    <string name="Load">Load</string>
+</resources>
